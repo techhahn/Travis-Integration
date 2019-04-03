@@ -13,6 +13,7 @@
     "build": "react-scripts build",
     "test": "CI=true react-scripts test --env=jsdom",
     "test:coverage": "npm test -- --coverage",
+    "coveralls": "cat ./coverage/lcov.info | node node_modules/.bin/coveralls",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -23,5 +24,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "coveralls": "^3.0.3"
+  }
 }
