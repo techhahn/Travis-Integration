@@ -1,8 +1,8 @@
 # How to use Travis CI and Github
 
-[![Build Status](https://travis-ci.org/techhahn/Travis-Integration.svg?branch=master)](https://travis-ci.org/techhahn/Travis-Integration)
+[![Build Status](https://travis-ci.org/techhahn/travis-Integration.svg?branch=master)](https://travis-ci.org/techhahn/Travis-Integration)
 
-[![Coverage Status](https://coveralls.io/repos/github/techhahn/Travis-Integration/badge.svg?branch=master)](https://coveralls.io/github/techhahn/Travis-Integration?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/techhahn/travis-Integration/badge.svg?branch=master)](https://coveralls.io/github/techhahn/Travis-Integration?branch=master)
 
 ### Description
 
